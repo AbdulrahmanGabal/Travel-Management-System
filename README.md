@@ -39,13 +39,14 @@ Welcome to the Travel Management System! This project is designed to manage and 
 ## Installation
 
 ### Prerequisites
-- .NET Core SDK
-- SQL Server
+
+- [.NET Core SDK](https://dotnet.microsoft.com/download)
+- [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
 ### Steps
 1. Clone the repository
     ```bash
-    git clone https://github.com/Eman288/Travel-Management-System.git
+    git clone https://github.com/AbdulrahmanGabal/Travel-Management-System.git
     cd Travel-Management-System
     ```
 
@@ -95,7 +96,7 @@ Contributions are welcome! Please follow these steps to contribute:
 6. Create a pull request
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 For any questions or feedback, please reach out to:
